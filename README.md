@@ -51,6 +51,8 @@ $pass = 'root'; (или оставь пустым '', если пароля не
 Шаг 4. Запуск
 Запусти проект (или перезапусти OpenServer, чтобы он увидел новую папку). Открой браузер и перейди по локальному адресу проекта http://ajaxsurgdb.local.
 
+<img width="511" height="545" alt="image" src="https://github.com/user-attachments/assets/7d1095a1-f733-4977-a9a2-e89dbc7f148a" />
+
 Также просмотри, чтобы у тебя были эти версии PHP и MySQL:
 
 <img width="459" height="331" alt="image" src="https://github.com/user-attachments/assets/3487b779-0d0b-4ca3-98af-64e5df07e249" />
